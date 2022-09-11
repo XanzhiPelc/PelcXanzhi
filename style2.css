@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0px;
+}
+body{
+    background-image: url(838480.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 20%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+
+}
+.form-box{
+    width: 500px;
+    background: rgba(0,0,0,0.8);
+    margin: 11%;
+    padding: 50px 0;
+    color: #fff;
+    box-shadow: 0 0 20px 2px rgba(0,0,0,0.5);
+    
+ 
+}
+.h1{
+
+    text-align: center;
+ position: center;
+    margin-bottom: 50px;
+    text-decoration-color: blueviolet;
+
+}
+
+.input-box{
+    width: 50px;
+    position: center;
+}
+
+.login-btn{
+    margin: 20px auto 10px;
+    width: 40%;
+   display: block;
+    outline: rgb(141, 3, 215);
+    padding: 3px 4;
+    border: 2px solid rgb(38, 110, 218);
+    cursor: pointer;
+    background: transparent;
+    color: white;
+    font-size: 16px;
+    
+}
